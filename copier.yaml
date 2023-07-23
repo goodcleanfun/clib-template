@@ -10,3 +10,5 @@ description:
 license:
     type: str
     default: MIT
+
+_subdirectory: template

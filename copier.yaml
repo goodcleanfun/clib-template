@@ -11,4 +11,8 @@ license:
     type: str
     default: MIT
 
+has_src:
+    type: bool
+    default: true
+
 _subdirectory: template
